@@ -44,5 +44,4 @@ def for_iterator(number_of_times)
   for time in range
     puts phrase
   end
-
 end
