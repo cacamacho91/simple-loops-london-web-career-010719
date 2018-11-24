@@ -9,6 +9,7 @@ def loop_iterator(number_of_times)
     else
       puts phrase
       number += 1
+    end
   end
 end
 
